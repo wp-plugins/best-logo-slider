@@ -1,4 +1,4 @@
-=== WPB Flat Preloader ===
+=== Best Logo Slider ===
 Contributors: wpbean
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ
 Tags: Logo slider, Best logo slider, Responsive logo slider, easy logo slider, client logo slider, logo slider wordpress, owl carousel, owl carousel wordpress, owl carousel wordpress plugin
