@@ -40,7 +40,6 @@ Pro features:
 * Show logo title in a tooltip popup.
 * Image size control.
 * Visual composer support.
-* See all the features of PRO version.
 * And many more.
 
 == Installation ==

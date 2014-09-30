@@ -117,5 +117,5 @@ function wpb_bls_logo_pro_meta_box( $object, $box ) { ?>
     	<li>And many more.</li>
     </ol>
   </p>
-  <p><a class="button button-primary button-large" href="#" target="_blank">Go for pro</a></p>
+  <p><a class="button button-primary button-large" href="http://wpbean.com/product/best-logo-slider-pro/" target="_blank">Go for pro</a></p>
 <?php }
