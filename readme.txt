@@ -49,7 +49,7 @@ Pro features:
 
 * Active the plugin.
 
-* Use this [logo_slider] shortcode, where you need to show the logo slider.
+* Use this [logo-slider] shortcode, where you need to show the logo slider.
 
 * Post some logo.
 
