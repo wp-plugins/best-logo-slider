@@ -36,6 +36,7 @@ Plugin Features
 Pro features:
 
 * Advance setting panel with all necessary settings.
+* Multiple slider can be shown from different logo categories.
 * Slider auto-play, speed, navigation, pagination, color settings.
 * Responsive settings. Can be control logo item to show on tablet &amp; mobile.
 * Show logo title in a tooltip popup.
