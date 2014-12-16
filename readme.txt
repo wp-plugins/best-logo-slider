@@ -74,6 +74,9 @@ Just give a attribute with your shortcode Ex. [logo_slider title="no"] .
 
 == Changelog ==
 
+= version 1.0.1 =
+* Feature image support , in case theme not support.
+
 = version 1.0 =
 * Initial release
 

@@ -4,7 +4,7 @@ Plugin Name: Best Logo Slider
 Plugin URI: http://wpbean.com/best-logo-slider
 Description: Best logo slider plugin in wordpress history. Fiew days ago I was searching for a client logo slider but I didn't got any plugin that fill my requirements. So I take a decision to make a slider plugin that can fill all of the requirements that a user need.
 Author: wpbean
-Version: 1.0
+Version: 1.0.1
 Author URI: http://wpbean.com
 */
 
