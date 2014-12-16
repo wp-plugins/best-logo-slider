@@ -25,3 +25,6 @@ require_once dirname( __FILE__ ) . '/wpb_metabox.php';
 //--------- setup widgets for this plugin ---------------- //
 
 require_once dirname( __FILE__ ) . '/wpb-bls-shortcodes.php';
+
+// Support for feature image
+add_theme_support( 'logo_slider' );
