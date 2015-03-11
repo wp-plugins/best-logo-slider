@@ -15,9 +15,8 @@ This plugin will add a responsive logo slider in your wordpress site.
 This plugin will add a responsive logo slider in your wordpress site. No need any setting just active , post logos and enjoy.
 
 *   [Upgrade to the Pro Version Now!&raquo;](http://wpbean.com/product/best-logo-slider-pro/ "Pro Version")
-*   [View a live demo &raquo;](http://demo.wpbean.com/logo-slider-2/)
+*   [View a live demo &raquo;](http://23.227.167.145/wpbean/demo1/best-logo-slider-pro/)
 *   [Support &raquo;](http://wpbean.com/support/)
-*   [Wpbean is available for hire &raquo;](http://wpbean.com/wpbean-is-available-for-hire "Wpbean is available for hire")
 
 Plugin Features
 
