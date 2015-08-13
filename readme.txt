@@ -1,9 +1,9 @@
 === Best Logo Slider ===
 Contributors: wpbean
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ
-Tags: Logo slider, Best logo slider, Responsive logo slider, easy logo slider, client logo slider, logo slider wordpress, owl carousel, owl carousel wordpress, owl carousel wordpress plugin
+Tags: Logo slider, Best logo slider, Responsive logo slider, easy logo slider, client logo slider, logo slider wordpress, owl carousel, owl carousel wordpress, owl carousel wordpress plugin, our partners wordpress plugins
 Requires at least: 3.3
-Tested up to: 4.0
+Tested up to: 4.2.4
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
