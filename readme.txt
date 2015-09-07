@@ -17,7 +17,7 @@ Using this Logo Slider plugin creating a carousel slider of logos like client lo
 
 >[Upgrade to the Pro Version](http://wpbean.com/product/best-logo-slider-pro/)  |  [DEMO](http://23.227.167.145/wpbean/demo1/best-logo-slider-pro/)  |  [Support](http://wpbean.com/support/)
 
-### Plugin Features
+### Plugin Features:
 
 * Responsive Logo slider.
 * Very light weight.
@@ -31,7 +31,7 @@ Using this Logo Slider plugin creating a carousel slider of logos like client lo
 * Powered by OWL-Carousel.
 & many More
 
-### Pro features:
+### Pro Version Features:
 
 * Advance setting panel with all necessary settings.
 * Multiple slider can be shown from different logo categories.
@@ -40,6 +40,7 @@ Using this Logo Slider plugin creating a carousel slider of logos like client lo
 * Show logo title in a tooltip popup.
 * Image size control.
 * Visual composer support.
+* Priority support in our support forum.
 * And many more.
 
 == Installation ==
