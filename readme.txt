@@ -1,22 +1,21 @@
 === Best Logo Slider ===
 Contributors: wpbean
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWQBJMQX3LCNQ
-Tags: Logo slider, Best logo slider, Responsive logo slider, easy logo slider, client logo slider, logo slider wordpress, owl carousel, owl carousel wordpress, owl carousel wordpress plugin, our partners wordpress plugins
+Tags: logo slider, Best logo slider, Responsive logo slider, easy logo slider, client logo slider, logo slider wordpress, owl carousel, owl carousel wordpress, owl carousel wordpress plugin, our partners wordpress plugins, image carousel, logo carousel, logo showcase, logo slide, logo slide show, logo slideshow, sponsors, image carousel, logo, logo carousel, WordPress logo slider, client logo carousel, client logo slider, client logos, clients, Customers, responsive, responsive carousel, responsive client logos, responsive slider, show client logos
 Requires at least: 3.3
-Tested up to: 4.2.4
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin will add a responsive logo slider in your wordpress site.
+Best Logo Slider to display partners, clients or sponsor's Logo in your WordPress site quickly and easily.
 
 == Description ==
 
-This plugin will add a responsive logo slider in your wordpress site. No need any setting just active , post logos and enjoy.
+Best Logo Slider to display partners, clients or sponsor's Logo in your WordPress site quickly and easily.
+Using this Logo Slider plugin creating a carousel slider of logos like client logo slider, partners logo slider, sponsor logo slider is super easy. It Support title, logo image and website URL. Shortcode ready for showing logo slider anywhere of site. Like page, post or custom template etc. 
 
-*   [Upgrade to the Pro Version Now!&raquo;](http://wpbean.com/product/best-logo-slider-pro/ "Pro Version")
-*   [View a live demo &raquo;](http://23.227.167.145/wpbean/demo1/best-logo-slider-pro/)
-*   [Support &raquo;](http://wpbean.com/support/)
+>[Upgrade to the Pro Version](http://wpbean.com/product/best-logo-slider-pro/)  |  [DEMO](http://23.227.167.145/wpbean/demo1/best-logo-slider-pro/)  |  [Support](http://wpbean.com/support/)
 
 Plugin Features
 
@@ -49,7 +48,9 @@ Pro features:
 
 * Active the plugin.
 
-* Use this [logo-slider] shortcode, where you need to show the logo slider.
+* Use this shortcode to show logo slider in Page or Post [logo-slider]
+
+* Template tag for using with custom template <?php echo do_shortcode('[logo-slider]'); ?>
 
 * Post some logo.
 
